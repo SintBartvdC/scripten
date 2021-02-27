@@ -1,5 +1,4 @@
 - ik ga een dobbel spel maken waarbij je meerderen rondes hebt. 
-- elke ronde valt de persoon met de laagste roll af.
 - er mogen niet meer dan 4 spelers meedoen.
 - als er geen integer wordt doorgegeven dan wordt het menu opnieuw afgespeeld.
 - het wordt gesorteerd van hoog naar laag
