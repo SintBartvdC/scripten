@@ -1,0 +1,16 @@
+lesson 1:
+- installed new version 
+- downloaded the assets
+- search for better audio 
+
+lesson 2:
+-audiosource new name
+-making the buttons for the piano
+-adding audio to the piano buttons
+
+lesson 3:
+- audiosource on keycode 
+
+lesson 4:
+- preview button
+- stop button
